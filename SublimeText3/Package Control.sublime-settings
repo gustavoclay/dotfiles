@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Agila Theme",
+		"Alignment",
+		"AlignTab",
+		"All Autocomplete",
+		"AngularJS",
+		"Auto Semi-Colon",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Can I Use",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS Extended Completions",
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"Ionic 2",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Package Control",
+		"React IDE",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"TrailingSpaces",
+		"TypeScript"
+	]
+}

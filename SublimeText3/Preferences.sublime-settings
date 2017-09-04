@@ -1,0 +1,26 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Agila Theme/Agila Neon Monocyanide.tmTheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"AngularJS",
+		"React IDE",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"show_line_endings": true,
+	"tab_size": 4,
+	"theme": "Agila Neon.sublime-theme",
+	"theme_agila_active_tab_entry_yellow": true,
+	"theme_agila_auto_complete_yellow": true,
+	"theme_agila_compact_sidebar": true,
+	"theme_agila_compact_tab": true,
+	"theme_agila_horizontal_scrollbar_thinner": true,
+	"theme_agila_sidebar_font_xsmall": true,
+	"theme_agila_sidebar_mini": true,
+	"theme_agila_sidebar_selected_entry_yellow": true,
+	"theme_agila_vertical_scrollbar_thinner": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+}
