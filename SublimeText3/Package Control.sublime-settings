@@ -20,6 +20,9 @@
 		"ColorPicker",
 		"CSS Extended Completions",
 		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Gist",
 		"Git",
 		"GitGutter",
 		"Ionic 2",
@@ -30,7 +33,6 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"TrailingSpaces",
 		"TypeScript"
 	]
 }
