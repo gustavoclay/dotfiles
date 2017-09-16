@@ -21,6 +21,9 @@
 		"CSS Extended Completions",
 		"DocBlockr",
 		"EditorConfig",
+		"Emmet",
+		"FileDiffs",
+		"Gist",
 		"Git",
 		"GitGutter",
 		"Ionic 2",
@@ -31,7 +34,6 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"TrailingSpaces",
 		"TypeScript"
 	]
 }
