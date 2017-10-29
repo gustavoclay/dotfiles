@@ -1,11 +1,14 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Agila Theme/Agila Neon Monocyanide.tmTheme",
-	"font_size": 10,
+	"dictionary": "Packages/Dictionaries/Portuguese (Brazilian).dic",
+	"font_face": "Ubuntu Mono",
+	"font_options":
+	[
+	],
+	"font_size": 12,
 	"ignored_packages":
 	[
-		"AngularJS",
-		"React IDE",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
