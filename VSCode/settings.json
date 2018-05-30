@@ -1,0 +1,12 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Dracula",
+    "python.autoComplete.addBrackets": true,
+    "editor.wordWrap": "on",
+    "editor.fontFamily": "Ubuntu mono",
+    "editor.fontSize": 16,
+    "terminal.integrated.fontFamily": "Ubuntu mono",
+    "terminal.integrated.fontSize": 16,
+    "terminal.external.linuxExec": "xfce4-terminal",
+
+}
