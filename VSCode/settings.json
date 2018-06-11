@@ -2,11 +2,14 @@
     "workbench.iconTheme": "vscode-icons",
     "workbench.colorTheme": "Dracula",
     "python.autoComplete.addBrackets": true,
+	"python.linting.flake8Enabled": true,
+    "python.formatting.provider": "autopep8",
     "editor.wordWrap": "on",
     "editor.fontFamily": "Ubuntu mono",
     "editor.fontSize": 16,
     "terminal.integrated.fontFamily": "Ubuntu mono",
     "terminal.integrated.fontSize": 16,
     "terminal.external.linuxExec": "xfce4-terminal",
-
+    "git.autofetch": true,
+    "markdown.extension.toc.githubCompatibility": true,
 }
