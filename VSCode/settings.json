@@ -1,15 +1,36 @@
 {
-    "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "Dracula",
-    "python.autoComplete.addBrackets": true,
-	"python.linting.flake8Enabled": true,
-    "python.formatting.provider": "autopep8",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Ubuntu Mono, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 15,
+    "workbench.colorTheme": "Agila Neon Monocyanide",
     "editor.wordWrap": "on",
-    "editor.fontFamily": "Ubuntu mono",
-    "editor.fontSize": 16,
-    "terminal.integrated.fontFamily": "Ubuntu mono",
-    "terminal.integrated.fontSize": 16,
-    "terminal.external.linuxExec": "xfce4-terminal",
-    "git.autofetch": true,
+    "editor.autoClosingBrackets": true,
+    "material-icon-theme.hidesExplorerArrows": true,
+    "material-icon-theme.folders.color": "#fdd835",
     "markdown.extension.toc.githubCompatibility": true,
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "path-intellisense.showHiddenFiles": true,
+
+    //LIVE SERVER
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "chrome --new-window",
+
+    //PYTHON
+    "python.autoComplete.addBrackets": true,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "autopep8",
+
+    //PHP
+    "phpfmt.php_bin": "C:/xampp/php/php.exe",
+    "php.validate.executablePath": "C:/xampp/php/php.exe",
+    "php.executablePath": "C:/xampp/php/php.exe",
+    "php.suggest.basic": false,
+    "phpfmt.enable_auto_align": true,
+    "phpfmt.visibility_order": true,
+    "workbench.activityBar.visible": true,
+
 }
